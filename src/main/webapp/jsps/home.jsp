@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Devops_train 
 		Beside Meghana Foods,
 		Tunkur,
-		+91-9999999999,+91-8888888888
+		+91-99999999,+91-8888888888
 		Devops_train123@gmail.com
 		<br>
 		<a href="mailto:Devops_train123@gmail.com">Mail to Devops_train</a>
