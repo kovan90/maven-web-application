@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mahesh Releases Nexus Repository</name>
-	      <url>http://13.201.92.127:8081/repository/chase-release/</url>
+	      <url>http://65.1.1.43:8081/repository/chase-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mahesh Snapshot Nexus Repository </name>
-	      <url>http://13.201.92.127:8081/repository/chase-snapshot/</url>
+	      <url>http://65.1.1.43:8081/repository/chase-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
