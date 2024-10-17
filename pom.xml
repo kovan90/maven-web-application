@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>kovan Releases Nexus Repository</name>
-	      <url>http://18.118.105.38:8081/repository/walmart-release/</url>
+	      <url>http://3.145.116.133:8081/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
